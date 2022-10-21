@@ -1,2 +1,3 @@
 # odin-recipes
-A recipe website part of the TOP curriculum.
+This is a recipe website made with HTML.
+This is part of The Odin Project curriculum.
