@@ -1,0 +1,16 @@
+body {
+    background-color: black
+}
+
+h1 {
+    text-decoration: underline;
+    color: purple;
+}
+
+p, ul, li {
+    color: red
+}
+
+h2, h3 {
+    color: aqua
+}
